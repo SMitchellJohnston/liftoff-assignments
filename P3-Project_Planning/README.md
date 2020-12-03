@@ -14,7 +14,7 @@ For this assignment, you'll create some initial plans for your project.
   <li><img src="wirefram_searchedbystate.png" alt="Wireframe for the Searched by State" height=100>
     <br><a href="wirefram_searchedbystate.png">Wireframe for the Searched By State</a></li>
   <li><img src="wireframe_reviews.png" alt="Wireframe for the Reviews" height=100>
-    <br><a href="wireframe_reviews.png">Wireframe for the Reviews</a></li>
+    <br><a href="wireframe_reviews.png">Wireframe for the Comparing of Reviews</a></li>
  </ul>
 
 ### Project Tracker
