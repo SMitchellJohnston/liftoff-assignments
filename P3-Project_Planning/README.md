@@ -10,9 +10,12 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 <ul>
-  <li><a href="wireframe_homepage.png"><img src="wireframe_homepage.png" alt="Wireframe for the Homepage" height=50></a></li>
-  <li><a href="wirefram_searchedbystate.png"><img src="wirefram_searchedbystate.png" alt="Wireframe for the searched by state page" height=50></a></li>
-  <li><a href="wireframe_reviews.png"><img src="wireframe_reviews.png" alt="Wireframe for the reviews" height=50></a></li>
+  <li><img src="wireframe_homepage.png" alt="Wireframe for the Homepage" height=100>
+    <br><a href="wireframe_homepage.png">Wireframe for the Homepage</a></li>
+  <li><img src="wirefram_searchedbystate.png" alt="Wireframe for the Searched by State" height=100>
+    <br><a href="wirefram_searchedbystate.png">Wireframe for the Searched By State</a></li>
+  <li><img src="wireframe_reviews.png" alt="Wireframe for the Reviews" height=100>
+    <br><a href="wireframe_reviews.png">Wireframe for the Reviews</a></li>
  </ul>
 
 ### Project Tracker
