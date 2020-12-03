@@ -8,7 +8,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 <ul>
   <li><img src="wireframe_homepage.png" alt="Wireframe for the Homepage" height=100>
     <br><a href="wireframe_homepage.png">Wireframe for the Homepage</a></li>
