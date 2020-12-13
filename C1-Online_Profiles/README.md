@@ -7,12 +7,9 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
- 
+GitHub for Mitch Johnston: [/SMitchellJohnston](https://github.com/SMitchellJohnston) 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-
+LinkedIn for Mitch Johnston: [Steven Johnston](https://www.linkedin.com/in/mitch-johnston-64501015b/)
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
+[Resume](RESUME%20-%20Google%20Docs.pdf)
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
