@@ -11,7 +11,7 @@ GitHub for Mitch Johnston:
 [/SMitchellJohnston](https://github.com/SMitchellJohnston) 
 ### LinkedIn
 LinkedIn for Mitch Johnston:
-[Steven Johnston](https://www.linkedin.com/in/mitch-johnston-64501015b/)
+[Steven Johnston](https://www.linkedin.com/in/steven-johnston-64501015b/)
 ### Resume
 [Resume](RESUME%20-%20Google%20Docs.pdf)
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
